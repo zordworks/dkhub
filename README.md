@@ -2,5 +2,5 @@
 
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zordworks/dkhub/main/dkhub_ofusc.lua"))()
 ```
